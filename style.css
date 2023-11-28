@@ -1,2 +1,20 @@
-p{ font-family: Helvetica;
+p {font-family: Helvetica;
   color: green;}
+
+ul {font-family: Helvetica;
+  color: gray;}
+
+ol{font-family: Helvetica;
+color: purple;}
+
+h1 {font-family: Helvetica;
+color: blue;}
+
+header {font-weight: bold;
+        color: green}
+
+body {font-family: Helvetica;
+      color: pink;}
+
+footer {font-family: Helvetica;
+color: Seagreen;}
